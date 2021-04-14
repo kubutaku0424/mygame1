@@ -1,0 +1,6 @@
+C:\Users\takuy\source\repos\Game\Debug\Game.exe
+C:\Users\takuy\source\repos\Game\Debug\Game.pdb
+C:\Users\takuy\OneDrive\デスクトップ\Game\Debug\Game.exe
+C:\Users\takuy\OneDrive\デスクトップ\Game\Debug\Game.pdb
+C:\Users\takuy\Desktop\Game\Debug\Game.exe
+C:\Users\takuy\Desktop\Game\Debug\Game.pdb
